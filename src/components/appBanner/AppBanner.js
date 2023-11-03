@@ -1,0 +1,2 @@
+import './appBanner.scss';
+
